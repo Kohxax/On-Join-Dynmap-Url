@@ -1,0 +1,4 @@
+name: On-Join-Dynmap-Url
+version: '1.0-SNAPSHOT'
+main: koha.onJoinDynmapUrl.OnJoinDynmapUrl
+api-version: '1.21'
